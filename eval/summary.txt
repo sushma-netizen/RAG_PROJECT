@@ -1,0 +1,4 @@
+Queries evaluated: 3
+Precision@5: 0.1333
+Recall@5: 0.6667
+NDCG@5: 0.5436

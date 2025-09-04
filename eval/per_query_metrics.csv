@@ -1,0 +1,4 @@
+query_number,num_gt,num_predicted,hits@k,precision@5,recall@5,ndcg@5,ground_truth_files,predicted_topk
+1,1,2,1,0.2,1.0,0.6309,000005-4680_jeopardy_3letterwords_200.json,000005-4680_jeopardy_3letterwords_200_774e6e.json; 000005-4680_jeopardy_3letterwords_200.json
+2,1,5,1,0.2,1.0,1.0,000006-4680_jeopardy_history_400.json,000006-4680_jeopardy_history_400.json; 000143-3751_jeopardy_traveltourism_500.json; 000051-4680_doublejeopardy_airlinetravel_2000.json; 000155-3751_doublejeopardy_britishfashion_400.json; 000140-3751_jeopardy_backwords_400.json
+3,1,5,0,0.0,0.0,0.0,000017-4680_jeopardy_3letterwords_600.json,000055-4680_finaljeopardy_thesolarsystem_.json; 000147-3751_doublejeopardy_cinematicdictionary_200.json; 000140-3751_jeopardy_backwords_400.json; 000128-3751_jeopardy_backwords_200.json; 000039-4680_doublejeopardy_xsos_800_f82370.json
